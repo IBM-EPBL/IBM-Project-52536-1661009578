@@ -12,10 +12,10 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 
 ## TEAM MEMBERS
-- KISHORE KUMAR  - (TEAM LEADER) 
-- BARANI    
-- KARTHIKA
-- BABHU GANESH 
+- A.AMUDESH - (TEAM LEADER) 
+- P.KAMESH
+- S.GOPI
+- G.ARUL PRAKASH
 
 Problem Statement :  
 >## Problem Statement : <img src="https://media3.giphy.com/media/PiAjGFVGKd9vvhrxLa/giphy.gif?cid=ecf05e47q3eaer6sqflvudf7hihc8qzeq95zw7nga3pcbccc&rid=giphy.gif&ct=s" width="30px">
@@ -43,6 +43,8 @@ Problem Statement :
   - Project Design Phase 1
     - [x] Proposed Solution
     - [x] Problem-Solution Fit
+    - [x] problem statement 
+301734
   - Project Design Phase 2
     - [x] Customer Journey
     - [x] Functional requirements
